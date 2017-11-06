@@ -116,9 +116,6 @@ tr {
    color: black;
 }
 
-.makeBlue{
-   color: blue ; 
-   font-weight: bold; 
 }
 .inputField{
    margin: 10px auto; 
@@ -139,6 +136,6 @@ tr {
    float: right ; 
    position: absolute;
    top: 840px;  
-   left: 400px; 
+   left: 360px; 
 }
 
