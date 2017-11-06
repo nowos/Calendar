@@ -3,14 +3,14 @@ body{
 }
 
 td{
-   max-width: 100px;  
-   max-height: 50px; 
-   text-overflow: hidden;  
-   overflow: hidden; 
-   width: 100px; 
-   height: 1.2em; 
+   overflow: hidden;  
    white-space: nowrap;
    text-overflow: ellipsis;
+   width: 100px;
+   height: 100px; 
+   border: 1px solid black; 
+   max-width: 100px; 
+}
 }
 .btClear{
    height: 40px;
@@ -115,11 +115,7 @@ tr {
    font-size: 18px; 
    color: black;
 }
-td{
-   width: 100px;
-   height: 100px; 
-   border: 1px solid black; 
-}
+
 .makeBlue{
    color: blue ; 
    font-weight: bold; 
@@ -145,3 +141,4 @@ td{
    top: 840px;  
    left: 420px; 
 }
+
